@@ -3,6 +3,7 @@
 <br />
 <br />
 <br />
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=disney1026)](https://solved.ac/disney1026/)
 ## My values
 <br />
 <br />
